@@ -1,0 +1,38 @@
+{
+    "TypeScript.png": {
+        "width": 512,
+        "height": 512
+    },
+    "Socket.io.png": {
+        "width": 512,
+        "height": 512
+    },
+    "React.png": {
+        "width": 512,
+        "height": 512
+    },
+    "Vuejs.png": {
+        "width": 600,
+        "height": 600
+    },
+    "Nodejs.png": {
+        "width": 256,
+        "height": 256
+    },
+    "PostgresSQL.png": {
+        "width": 512,
+        "height": 512
+    },
+    "NETcore.png": {
+        "width": 512,
+        "height": 512
+    },
+    "Redis.png": {
+        "width": 512,
+        "height": 512
+    },
+    "Nestjs.png": {
+        "width": 740,
+        "height": 360
+    }
+}
