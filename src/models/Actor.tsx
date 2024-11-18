@@ -1,4 +1,4 @@
-import { Loader, Object3D, Object3DEventMap, Scene, Vector3} from "three";
+import { Loader, Object3D, Object3DEventMap, Scene} from "three";
 
 export abstract class Actor{
     protected scene:Scene;

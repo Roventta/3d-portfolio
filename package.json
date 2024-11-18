@@ -26,6 +26,7 @@
     "react-text-transition": "^3.1.0",
     "redux": "^5.0.1",
     "scrollex": "^2.0.1",
+    "three": "^0.170.0",
     "typewriter-effect": "^2.21.0",
     "xstate": "^5.18.2"
   },

@@ -1,5 +1,5 @@
 import assert from "assert";
-import { AnimationClip, AnimationMixer, CubicBezierCurve, Group, Loader, Object3DEventMap, Scene, Vector2, Vector3 } from "three";
+import { AnimationClip, AnimationMixer, CubicBezierCurve, Group, Object3DEventMap, Scene, Vector2, Vector3 } from "three";
 import { GLTF, GLTFLoader } from "three/examples/jsm/Addons.js";
 import {createActor, createMachine} from 'xstate'
 
