@@ -2,7 +2,7 @@ import React, { MutableRefObject, RefObject, useEffect, useState } from "react";
 import ReactTextTransition from "react-text-transition"
 import "./global.css"
 
-const jobs = ["Computer Scientist", "Physics", "Computer Graphics", ".Net/React", "Nodejs/Vue", "Fullstack", "C/C++"] 
+const jobs = ["Computer Scientist", "Physics Minor", "CG Wizard", ".Net/React", "Nodejs/Vue", "Fullstack"] 
 let index = 0;
 
 const Hero:React.FC<{projs:RefObject<HTMLElement>}> = (dto) => {
@@ -31,7 +31,7 @@ const Hero:React.FC<{projs:RefObject<HTMLElement>}> = (dto) => {
           </ReactTextTransition>
         </h1>
         <h2 className="w-9/12 bold font-serif text-2xl text-[#c85c2e]">
-          Teaching Math/Physics/IT in Canberra
+          I practice Creativity in system designs with Caution.
         </h2>
         <h2 className="text-white">Address: Braddon Canberra</h2>
         <button className="border border-black bg-white px-4 py-2 rounded-full font-medium active:scale-90 transition duration-100"
@@ -39,7 +39,7 @@ const Hero:React.FC<{projs:RefObject<HTMLElement>}> = (dto) => {
         >
           view my projects
         </button>
-    </div>
+      </div>
     </div>
   );
 };
