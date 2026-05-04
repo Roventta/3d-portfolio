@@ -40,6 +40,7 @@ const Hero:React.FC<{projs:RefObject<HTMLElement>}> = (dto) => {
           view my projects
         </button>
     </div>
+    </div>
   );
 };
 export default Hero;
