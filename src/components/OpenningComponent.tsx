@@ -31,9 +31,9 @@ const Hero:React.FC<{projs:RefObject<HTMLElement>}> = (dto) => {
           </ReactTextTransition>
         </h1>
         <h2 className="w-9/12 bold font-serif text-2xl text-[#c85c2e]">
-          I practice Creativity in system designs with Caution.
+          Teaching Secondary Physics, Math and IT.
         </h2>
-        <h2 className="text-white">Address: Braddon Canberra</h2>
+        <h2 className="text-white">Address: Bruce Canberra</h2>
         <button className="border border-black bg-white px-4 py-2 rounded-full font-medium active:scale-90 transition duration-100"
           onClick={()=>{dto.projs.current?.scrollIntoView({behavior:'smooth'})}}
         >
